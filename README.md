@@ -1,5 +1,4 @@
-# JDBC-PROJECT
-JDBC PROJECT
+# JDBC Interview Questions
 ```cs
 1. What is JDBC?
 Answer: JDBC (Java Database Connectivity) is a Java API that enables Java applications to interact with 
