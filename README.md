@@ -1,6 +1,6 @@
 # JDBC-PROJECT
 JDBC PROJECT
-``cs
+```cs
 1. What is JDBC?
 Answer: JDBC (Java Database Connectivity) is a Java API that enables Java applications to interact with 
 relational databases. It provides a standard interface for connecting to a database, executing SQL queries, 
